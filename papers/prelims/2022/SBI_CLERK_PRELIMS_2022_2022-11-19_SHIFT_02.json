@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_PRELIMS_2022_2022-11-19_SHIFT_02",
+      "exam_name": "SBI Clerk",
+      "stage": "PRELIMS",
+      "year": 2022,
+      "exam_date": "2022-11-19",
+      "shift": "Shift 02",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": "SRC-TESTBOOK-2022",
+      "source_name": "Testbook SBI Clerk previous-year papers",
+      "source_url": "https://testbook.com/sbi-clerk/previous-year-papers",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "verification_status": "UNVERIFIED",
+      "completeness_status": "PARTIAL",
+      "evidence_note": "Testbook identifies a 2022 Prelims memory-based paper for this date/shift. Direct PDF was not inspected in this collection pass.",
+      "questions": []
+    }
+  ]
+}

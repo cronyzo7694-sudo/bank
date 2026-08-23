@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_MAINS_2023_2023-01-15_SHIFT_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "MAINS",
+      "year": 2023,
+      "exam_date": "2023-01-15",
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": "SRC-TUTORIALSDUNIYA-ARCHIVE",
+      "source_name": "TutorialsDuniya SBI Clerk previous-paper listing",
+      "source_url": "https://www.tutorialsduniya.com/exams/sbi-clerk-previous-year-question-papers/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "verification_status": "UNVERIFIED",
+      "completeness_status": "PARTIAL",
+      "evidence_note": "TutorialsDuniya listing calls this a SBI Clerk Mains memory-based document dated 15 January 2023. Direct document and any recruitment-cycle naming have not been independently verified.",
+      "questions": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_MAINS_2025_SHIFT_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "MAINS",
+      "year": 2025,
+      "exam_date": null,
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": "SRC-GUIDELY-ARCHIVE",
+      "source_name": "Guidely SBI Clerk previous-year papers",
+      "source_url": "https://guidely.in/previous-year-papers/sbi-clerk",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "verification_status": "UNVERIFIED",
+      "completeness_status": "PARTIAL",
+      "evidence_note": "Guidely archive offers 2025 Mains memory-based material but no identifiable shift was retained from the inspected archive page.",
+      "questions": []
+    }
+  ]
+}

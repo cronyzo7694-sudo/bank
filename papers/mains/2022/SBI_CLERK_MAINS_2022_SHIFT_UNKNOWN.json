@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_MAINS_2022_SHIFT_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "MAINS",
+      "year": 2022,
+      "exam_date": null,
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": "SRC-ADDA247-ARCHIVE",
+      "source_name": "Adda247 SBI Clerk previous-year paper archive",
+      "source_url": "https://www.adda247.com/jobs/sbi-clerk-previous-year-question-paper/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "verification_status": "UNVERIFIED",
+      "completeness_status": "PARTIAL",
+      "evidence_note": "Secondary archive lists a memory-based paper; direct document/question text has not yet been inspected.",
+      "questions": []
+    }
+  ]
+}

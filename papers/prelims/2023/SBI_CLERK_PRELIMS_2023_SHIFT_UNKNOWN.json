@@ -1,0 +1,24 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_PRELIMS_2023_SHIFT_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "PRELIMS",
+      "year": 2023,
+      "exam_date": null,
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": "SRC-TUTORIALSDUNIYA-ARCHIVE",
+      "source_name": "TutorialsDuniya SBI Clerk previous-paper listing",
+      "source_url": "https://www.tutorialsduniya.com/exams/sbi-clerk-previous-year-question-papers/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "verification_status": "UNVERIFIED",
+      "completeness_status": "PARTIAL",
+      "evidence_note": "TutorialsDuniya lists a SBI Clerk Prelims 2023 memory-based document dated 5/6 January 2024 but does not provide a shift in the inspected listing; shift is UNKNOWN.",
+      "questions": []
+    }
+  ]
+}
