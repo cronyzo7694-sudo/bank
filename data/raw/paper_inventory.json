@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "paper_id": "SBI_CLERK_PRELIMS_2016_UNKNOWN_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "PRELIMS",
+      "year": 2016,
+      "exam_date": null,
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": null,
+      "verification_status": "MISSING_SOURCE",
+      "notes": "SOURCE NOT FOUND in this repository. This is an inventory gap, not a paper or a claim that no paper existed."
+    },
+    {
+      "paper_id": "SBI_CLERK_MAINS_2016_UNKNOWN_UNKNOWN",
+      "exam_name": "SBI Clerk",
+      "stage": "MAINS",
+      "year": 2016,
+      "exam_date": null,
+      "shift": "UNKNOWN",
+      "total_questions": null,
+      "sections": [],
+      "section_question_count": {},
+      "source_id": null,
+      "verification_status": "MISSING_SOURCE",
+      "notes": "SOURCE NOT FOUND in this repository. Do not infer question data from this placeholder."
+    }
+  ]
+}

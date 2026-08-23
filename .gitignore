@@ -1,0 +1,5 @@
+# Local database and reports are generated from the raw source registry.
+data/*.sqlite
+docs/*_report.md
+__pycache__/
+*.pyc
