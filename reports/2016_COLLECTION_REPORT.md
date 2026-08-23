@@ -21,7 +21,7 @@ The direct documents and solution documents available from the existing SSC Stud
 | `UNVERIFIED` records | 1 paper record |
 | `PARTIAL` records | 1 paper record |
 
-**Paper:** `papers/prelims/2016/SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN.json`  
+**Paper:** `papers/prelims/2016/SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN.json`
 **Access:** `PAPER_FOUND` • **Document type:** `MEMORY_BASED` • **Completeness:** `PARTIAL` • **Verification:** `UNVERIFIED`
 
 The inspected Reasoning document says it is a memory-based SBI Clerk Prelims practice set based on the 28 May 2016 exam. The inspected Maths document identifies itself as a memory-based SBI Clerk Pre Maths document. Their question numbering is compatible (Reasoning Q1–35; Maths Q36–70), but the documents do not establish a complete, original, same-shift paper. They are therefore not merged into a claimed complete paper.
@@ -42,7 +42,7 @@ The inspected Reasoning document says it is a memory-based SBI Clerk Prelims pra
 | `UNVERIFIED` records | 1 paper record |
 | `PARTIAL` records | 1 paper record |
 
-**Paper:** `papers/mains/2016/SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN.json`  
+**Paper:** `papers/mains/2016/SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN.json`
 **Access:** `PAPER_FOUND` • **Completeness:** `PARTIAL` • **Verification:** `UNVERIFIED`
 
 The question document is headed “SBI Clerk Mains 2016” and the matching direct answer document is headed “SBI Clerk Mains 2016 (Solutions).” These are usable secondary documents, but neither constitutes official provenance or a second independent reproduction. The paper is not upgraded to verified or complete.
