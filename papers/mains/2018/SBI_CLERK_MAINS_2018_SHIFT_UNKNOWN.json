@@ -5,20 +5,128 @@
       "exam_name": "SBI Clerk",
       "stage": "MAINS",
       "year": 2018,
-      "exam_date": null,
+      "exam_date": "2018-08-05",
       "shift": "UNKNOWN",
-      "total_questions": null,
-      "sections": [],
-      "section_question_count": {},
-      "source_id": "SRC-ADDA247-ARCHIVE",
-      "source_name": "Adda247 SBI Clerk previous-year paper archive",
-      "source_url": "https://www.adda247.com/jobs/sbi-clerk-previous-year-question-paper/",
-      "source_type": "REPUTABLE_EDUCATIONAL",
+      "total_questions": 190,
+      "sections": [
+        "General/Financial Awareness",
+        "General English",
+        "Quantitative Aptitude",
+        "Reasoning Ability & Computer Aptitude"
+      ],
+      "section_question_count": {
+        "General/Financial Awareness": 50,
+        "General English": 40,
+        "Quantitative Aptitude": 50,
+        "Reasoning Ability & Computer Aptitude": 50
+      },
+      "source_id": "SRC-PREPP-2018-MAINS-05",
+      "source_name": "Prepp SBI Clerk 2018 Mains 5 August memory-based PDF",
+      "source_url": "https://cdn-images.prepp.in/public/image/notes_SBIClerk2018MainsMemoryBasedTest05Aug2018_compressed_74aa2800fc77e407748a2552ad7ffc8f.pdf",
+      "source_type": "QUESTION_ARCHIVE",
       "retrieval_date": "2026-08-23",
       "verification_status": "UNVERIFIED",
       "completeness_status": "PARTIAL",
-      "evidence_note": "Secondary archive lists a memory-based paper; direct document/question text has not yet been inspected.",
-      "questions": []
+      "evidence_note": "Direct PDF was opened. Its heading identifies SBI Clerk 2018 Mains memory-based test dated 05 August 2018. Shift is not stated. Only Q1\u2013Q5 are structurally preserved in this collection pass. A BankersAdda page independently identifies 5 August 2018 as the Mains date, but neither source makes this official.",
+      "questions": [
+        {
+          "question_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN_Q1",
+          "paper_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN",
+          "question_number": "1",
+          "section": "General/Financial Awareness",
+          "question_text": "In May 2018, Which country won the women's Asian Hockey Champions Trophy 2018?",
+          "options": [
+            "a. India",
+            "b. South Korea",
+            "c. Pakistan",
+            "d. Australia",
+            "e. England"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Direct transcription from a memory-based source document; no answer-key evidence was used."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN_Q2",
+          "paper_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN",
+          "question_number": "2",
+          "section": "General/Financial Awareness",
+          "question_text": "What is the approved corpus for the \u201cMicro Irrigation Fund\u201d under Pradhan Mantri Krishi Sinchayee Yojana?",
+          "options": [
+            "a. Rs. 5,000 crore",
+            "b. Rs. 3,000 crore",
+            "c. Rs. 1,000 crore",
+            "d. Rs. 8,000 crore",
+            "e. Rs. 10,000 crore"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Direct transcription from a memory-based source document; no answer-key evidence was used."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN_Q3",
+          "paper_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN",
+          "question_number": "3",
+          "section": "General/Financial Awareness",
+          "question_text": "Which of the following is hosting the ASEAN India Film Festival 2018?",
+          "options": [
+            "a. Goa",
+            "b. Singapore",
+            "c. New Delhi",
+            "d. Kuala Lumpur",
+            "e. Pattaya"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Direct transcription from a memory-based source document; no answer-key evidence was used."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN_Q4",
+          "paper_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN",
+          "question_number": "4",
+          "section": "General/Financial Awareness",
+          "question_text": "United Nations Development Programme will soon set up a skill development centre at 'Bharosa,' in _______.",
+          "options": [
+            "a. Delhi",
+            "b. Visakhapatnam",
+            "c. Mumbai",
+            "d. Hyderabad",
+            "e. Indore"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Direct transcription from a memory-based source document; no answer-key evidence was used."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN_Q5",
+          "paper_id": "SBI_CLERK_MAINS_2018_SHIFT_UNKNOWN",
+          "question_number": "5",
+          "section": "General/Financial Awareness",
+          "question_text": "Ajay Thakur is related to which sport?",
+          "options": [
+            "a. Badminton",
+            "b. Basketball",
+            "c. Kabaddi",
+            "d. Football",
+            "e. Cricket"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Direct transcription from a memory-based source document; no answer-key evidence was used."
+        }
+      ],
+      "document_type": "MEMORY_BASED",
+      "paper_access_status": "PAPER_FOUND"
     }
   ]
 }

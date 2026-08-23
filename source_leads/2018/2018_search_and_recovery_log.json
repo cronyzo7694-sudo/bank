@@ -1,0 +1,38 @@
+{
+  "year": 2018,
+  "retrieval_date": "2026-08-23",
+  "records": [
+    {
+      "lead_id": "LEAD-2018-IBPSGUIDE-PRE-23",
+      "status": "CORROBORATING_SOURCE",
+      "source_url": "https://www.ibpsguide.com/memory-based-questions-sbi-clerk-pre-2018-23rd-june-full-set-in-pdf/",
+      "accessed": true,
+      "finding": "The page identifies SBI Clerk Prelims held on 23 June 2018 and exposes English, Numerical Ability, and Reasoning memory-based PDFs.",
+      "disposition": "Corroborates the dated Prelims source; remains secondary and memory-based."
+    },
+    {
+      "lead_id": "LEAD-2018-BANKERSADDA-MAINS-05",
+      "status": "CORROBORATING_SOURCE",
+      "source_url": "https://www.bankersadda.com/sbi-clerk-mains-2018-memory-based-paper/",
+      "accessed": true,
+      "finding": "The page states that SBI Clerk Mains was conducted on 5 August 2018 and exposes section question and solution PDFs.",
+      "disposition": "Corroborates date. It remains a memory-based secondary source; no source-local section questions from this lead were added to avoid unverified numbering reconciliation."
+    },
+    {
+      "lead_id": "LEAD-2018-PRE-30JUN",
+      "status": "SOURCE_LEAD",
+      "source_url": "https://sbi.bank.in/webfiles/uploads/files/1516358303086_FINAL_EXAM_DATES.pdf",
+      "accessed": true,
+      "finding": "Official SBI notice lists Prelims dates 23, 24, and 30 June 2018. Direct 30 June question document was not recovered in this pass.",
+      "disposition": "Unresolved source lead. No paper record or questions created."
+    },
+    {
+      "lead_id": "LEAD-2018-IBPSGUIDE-MAINS-404",
+      "status": "EXCLUDED_INACCESSIBLE",
+      "source_url": "https://www.ibpsguide.com/sbi-clerk-mains-2018-memory-based-paper-pdf/",
+      "accessed": true,
+      "finding": "Page returned 'Page not found - IBPS Guide'.",
+      "disposition": "No document extracted."
+    }
+  ]
+}

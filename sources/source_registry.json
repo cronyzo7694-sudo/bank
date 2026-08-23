@@ -151,6 +151,54 @@
       "source_type": "OFFICIAL",
       "retrieval_date": "2026-08-23",
       "notes": "Directly inspected official notice dated 5 April 2018 for ad CRPD/CR/2017-18/10; sets exam dates in 2018. Timeline context only."
+    },
+    {
+      "source_id": "SRC-PREPP-2018-PRE-23",
+      "source_name": "Prepp SBI Clerk 2018 Prelims 23 June memory-based PDF",
+      "source_url": "https://cdn-images.prepp.in/public/image/notes_SBIClerk2018PrelimsMemoryBasedTest23June2018_5dc1b15596e14d2929408bcdda672d56.pdf",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct PDF inspected. Heading identifies SBI Clerk 2018 Prelims memory-based test dated 23 June 2018."
+    },
+    {
+      "source_id": "SRC-PREPP-2018-PRE-24",
+      "source_name": "Prepp SBI Clerk 2018 Prelims 24 June memory-based PDF",
+      "source_url": "https://cdn-images.prepp.in/public/image/notes_SBIClerk2018PrelimsMemoryBasedTest24Jun2018_8193eb547c629f1e301639ce9722a678.pdf",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct PDF inspected. Heading identifies SBI Clerk 2018 Prelims memory-based test dated 24 June 2018."
+    },
+    {
+      "source_id": "SRC-PREPP-2018-PRE-25",
+      "source_name": "Prepp SBI Clerk 2018 Prelims 25 June memory-based PDF",
+      "source_url": "https://cdn-images.prepp.in/public/image/notes_SBIClerk2018PrelimsMemoryBasedTest25Jun2018_c4395133cbde97cbf0342b1e49af3807.pdf",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct PDF inspected. Heading identifies SBI Clerk 2018 Prelims memory-based test dated 25 June 2018."
+    },
+    {
+      "source_id": "SRC-PREPP-2018-MAINS-05",
+      "source_name": "Prepp SBI Clerk 2018 Mains 5 August memory-based PDF",
+      "source_url": "https://cdn-images.prepp.in/public/image/notes_SBIClerk2018MainsMemoryBasedTest05Aug2018_compressed_74aa2800fc77e407748a2552ad7ffc8f.pdf",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct PDF inspected. Heading identifies SBI Clerk 2018 Mains memory-based test dated 5 August 2018."
+    },
+    {
+      "source_id": "SRC-IBPSGUIDE-2018-PRE-23",
+      "source_name": "IBPS Guide SBI Clerk Prelims 23 June 2018 page",
+      "source_url": "https://www.ibpsguide.com/memory-based-questions-sbi-clerk-pre-2018-23rd-june-full-set-in-pdf/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct page inspected. It states SBI Clerk Prelims was held on 23 June 2018 and exposes section memory-based PDFs."
+    },
+    {
+      "source_id": "SRC-BANKERSADDA-2018-MAINS",
+      "source_name": "BankersAdda SBI Clerk Mains 2018 memory-based page",
+      "source_url": "https://www.bankersadda.com/sbi-clerk-mains-2018-memory-based-paper/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct page inspected. It says SBI Clerk Mains was conducted 5 August 2018 and exposes question/solution PDFs for Quantitative Aptitude and English sections."
     }
   ]
 }
