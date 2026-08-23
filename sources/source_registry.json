@@ -1,11 +1,92 @@
 {
   "records": [
-    {"source_id":"SRC-ADDA247-ARCHIVE","source_name":"Adda247 SBI Clerk previous-year paper archive","source_url":"https://www.adda247.com/jobs/sbi-clerk-previous-year-question-paper/","source_type":"REPUTABLE_EDUCATIONAL","retrieval_date":"2026-08-23","notes":"The page itself labels the historical materials as memory-based papers; it is not treated as an official SBI release."},
-    {"source_id":"SRC-TESTBOOK-2022","source_name":"Testbook SBI Clerk previous-year papers","source_url":"https://testbook.com/sbi-clerk/previous-year-papers","source_type":"REPUTABLE_EDUCATIONAL","retrieval_date":"2026-08-23","notes":"The page identifies 2022 Prelims memory-based papers by date and shift; access/download may require account access."},
-    {"source_id":"SRC-GUIDELY-ARCHIVE","source_name":"Guidely SBI Clerk previous-year papers","source_url":"https://guidely.in/previous-year-papers/sbi-clerk","source_type":"REPUTABLE_EDUCATIONAL","retrieval_date":"2026-08-23","notes":"The page expressly says its papers are memory-based and collected from aspirants; secondary source only."},
-    {"source_id":"SRC-CRACKU-ARCHIVE","source_name":"Cracku SBI Clerk past-paper archive","source_url":"https://cracku.in/sbi-clerk-previous-papers/","source_type":"QUESTION_ARCHIVE","retrieval_date":"2026-08-23","notes":"Archive page says SBI Clerk examination was not conducted in 2017. This statement is retained as source evidence, not independently certified official proof."},
-    {"source_id":"SRC-BANKERSADDA-2024-MAINS","source_name":"BankersAdda SBI Clerk Mains memory-based papers","source_url":"https://www.bankersadda.com/sbi-clerk-memory-based-mock-2024/","source_type":"REPUTABLE_EDUCATIONAL","retrieval_date":"2026-08-23","notes":"Page says its paper was prepared from 25 February 2024 Shift 1 exam review; source is secondary and memory-based."},
-    {"source_id":"SRC-TUTORIALSDUNIYA-ARCHIVE","source_name":"TutorialsDuniya SBI Clerk previous-paper listing","source_url":"https://www.tutorialsduniya.com/exams/sbi-clerk-previous-year-question-papers/","source_type":"QUESTION_ARCHIVE","retrieval_date":"2026-08-23","notes":"Listing identifies a SBI Clerk Mains memory-based paper dated 15 January 2023 and 2023 Prelims documents dated 5/6 January 2024; direct documents still require inspection."},
-    {"source_id":"SRC-TESTBOOK-2025","source_name":"Testbook SBI Clerk 2025 shift-wise question-paper page","source_url":"https://testbook.com/news/sbi-clerk-question-paper-2025-download-paper-pdf/","source_type":"REPUTABLE_EDUCATIONAL","retrieval_date":"2026-08-23","notes":"Page explicitly describes its material as unofficial memory-based compilations, not official question papers."}
+    {
+      "source_id": "SRC-ADDA247-ARCHIVE",
+      "source_name": "Adda247 SBI Clerk previous-year paper archive",
+      "source_url": "https://www.adda247.com/jobs/sbi-clerk-previous-year-question-paper/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "The page itself labels the historical materials as memory-based papers; it is not treated as an official SBI release."
+    },
+    {
+      "source_id": "SRC-TESTBOOK-2022",
+      "source_name": "Testbook SBI Clerk previous-year papers",
+      "source_url": "https://testbook.com/sbi-clerk/previous-year-papers",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "The page identifies 2022 Prelims memory-based papers by date and shift; access/download may require account access."
+    },
+    {
+      "source_id": "SRC-GUIDELY-ARCHIVE",
+      "source_name": "Guidely SBI Clerk previous-year papers",
+      "source_url": "https://guidely.in/previous-year-papers/sbi-clerk",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "The page expressly says its papers are memory-based and collected from aspirants; secondary source only."
+    },
+    {
+      "source_id": "SRC-CRACKU-ARCHIVE",
+      "source_name": "Cracku SBI Clerk past-paper archive",
+      "source_url": "https://cracku.in/sbi-clerk-previous-papers/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Archive page says SBI Clerk examination was not conducted in 2017. This statement is retained as source evidence, not independently certified official proof."
+    },
+    {
+      "source_id": "SRC-BANKERSADDA-2024-MAINS",
+      "source_name": "BankersAdda SBI Clerk Mains memory-based papers",
+      "source_url": "https://www.bankersadda.com/sbi-clerk-memory-based-mock-2024/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "Page says its paper was prepared from 25 February 2024 Shift 1 exam review; source is secondary and memory-based."
+    },
+    {
+      "source_id": "SRC-TUTORIALSDUNIYA-ARCHIVE",
+      "source_name": "TutorialsDuniya SBI Clerk previous-paper listing",
+      "source_url": "https://www.tutorialsduniya.com/exams/sbi-clerk-previous-year-question-papers/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Listing identifies a SBI Clerk Mains memory-based paper dated 15 January 2023 and 2023 Prelims documents dated 5/6 January 2024; direct documents still require inspection."
+    },
+    {
+      "source_id": "SRC-TESTBOOK-2025",
+      "source_name": "Testbook SBI Clerk 2025 shift-wise question-paper page",
+      "source_url": "https://testbook.com/news/sbi-clerk-question-paper-2025-download-paper-pdf/",
+      "source_type": "REPUTABLE_EDUCATIONAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "Page explicitly describes its material as unofficial memory-based compilations, not official question papers."
+    },
+    {
+      "source_id": "SRC-SSCSTUDY-2016",
+      "source_name": "SSC Study 2016 SBI Clerk PDF listing",
+      "source_url": "https://sscstudy.com/sbi-clerk-previous-year-question-paper-pdf/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Inspected listing exposes direct Google Drive documents: 2016 Prelims Reasoning practice set and 2016 Mains paper. The listing labels the Prelims source memory-based."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
+      "source_name": "2016 SBI Clerk Prelims Reasoning memory-based document",
+      "source_url": "https://drive.usercontent.google.com/download?id=1RydeIciAg9qbrg0ybHl5XlEzZA8XW9Ad&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct document inspected. Heading says \u201cMEMORY BASED SBI CLERK PRELIMS PRACTICE SET based on 28thMay 2016 Exam\u201d. It contains questions, but is only a Reasoning section compilation."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-MAINS",
+      "source_name": "2016 SBI Clerk Mains document",
+      "source_url": "https://drive.usercontent.google.com/download?id=1dvft7GZcvnXmPTCIIC_h0c_v4yt8fES9&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct document inspected. Heading says \u201cSBI Clerk Mains 2016\u201d. It contains question text and options. No official provenance or answer key was established."
+    },
+    {
+      "source_id": "SRC-CRACKU-2016",
+      "source_name": "Cracku 2016 SBI Clerk solved-paper pages",
+      "source_url": "https://cracku.in/sbi-clerk-previous-papers/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct archive and 27, 28, 29 May plus 5 June 2016 pages were inspected. The archive exposes questions and calls papers SBI Clerk; stage is not explicit on the inspected pages, so these are retained as leads rather than staged records."
+    }
   ]
 }

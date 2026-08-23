@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "lead_id": "LEAD-2016-CRACKU-27MAY",
+      "stage": "UNKNOWN_STAGE",
+      "year": 2016,
+      "date": "2016-05-27",
+      "shift": "UNKNOWN",
+      "status": "SOURCE_LEAD",
+      "source_name": "Cracku",
+      "source_url": "https://cracku.in/sbi-clerk-2016-4-question-paper-solved",
+      "accessed_document": true,
+      "evidence": "The directly inspected page exposes 100 SBI Clerk questions and options. The inspected page does not explicitly identify the examination stage, so it is not entered as Prelims or Mains without further corroboration."
+    },
+    {
+      "lead_id": "LEAD-2016-CRACKU-28MAY",
+      "stage": "UNKNOWN_STAGE",
+      "year": 2016,
+      "date": "2016-05-28",
+      "shift": "UNKNOWN",
+      "status": "SOURCE_LEAD",
+      "source_name": "Cracku",
+      "source_url": "https://cracku.in/sbi-clerk-2016-3-question-paper-solved",
+      "accessed_document": true,
+      "evidence": "The directly inspected page exposes 100 SBI Clerk questions and options. Stage is not explicit on the inspected page."
+    },
+    {
+      "lead_id": "LEAD-2016-CRACKU-29MAY",
+      "stage": "UNKNOWN_STAGE",
+      "year": 2016,
+      "date": "2016-05-29",
+      "shift": "UNKNOWN",
+      "status": "SOURCE_LEAD",
+      "source_name": "Cracku",
+      "source_url": "https://cracku.in/sbi-clerk-2016-question-paper-solved",
+      "accessed_document": true,
+      "evidence": "The directly inspected page exposes 100 SBI Clerk questions and options, split as English 1–30, Quant 31–65, and Reasoning 66–100. Stage is not explicit on the inspected page."
+    },
+    {
+      "lead_id": "LEAD-2016-CRACKU-05JUN",
+      "stage": "UNKNOWN_STAGE",
+      "year": 2016,
+      "date": "2016-06-05",
+      "shift": "UNKNOWN",
+      "status": "SOURCE_LEAD",
+      "source_name": "Cracku",
+      "source_url": "https://cracku.in/sbi-clerk-2016-2-question-paper-solved",
+      "accessed_document": false,
+      "evidence": "Archive index identifies this as a 100-question SBI Clerk paper. Its direct page was not opened in this pass."
+    },
+    {
+      "lead_id": "LEAD-2016-SSCSTUDY-QUANT",
+      "stage": "PRELIMS",
+      "year": 2016,
+      "date": null,
+      "shift": "UNKNOWN",
+      "status": "SOURCE_LEAD",
+      "source_name": "SSC Study",
+      "source_url": "https://drive.google.com/file/d/1XHlJotU-q-IkEy4tF-f_GDjo-6RT2dq0/view?usp=sharing",
+      "accessed_document": false,
+      "evidence": "The inspected SSC Study listing identifies a two-page 2016 Prelims Quantitative Aptitude memory-based PDF. The direct document was not opened in this pass."
+    }
+  ]
+}

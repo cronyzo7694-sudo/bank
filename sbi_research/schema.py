@@ -14,6 +14,7 @@ CREATE TABLE IF NOT EXISTS papers (
  total_questions INTEGER, sections_json TEXT NOT NULL DEFAULT '[]',
  section_question_count_json TEXT NOT NULL DEFAULT '{}', source_id TEXT,
  verification_status TEXT NOT NULL CHECK(verification_status IN ('VERIFIED','PARTIALLY_VERIFIED','UNVERIFIED','CONFLICTING_SOURCE','MISSING_SOURCE')),
+ paper_access_status TEXT NOT NULL DEFAULT 'SOURCE_LEAD' CHECK(paper_access_status IN ('SOURCE_LEAD','PAPER_FOUND','VERIFIED')),
  completeness_status TEXT NOT NULL CHECK(completeness_status IN ('COMPLETE','PARTIAL','MISSING_SOURCE','UNVERIFIED','CONFLICTING_SOURCE')),
  evidence_note TEXT NOT NULL, notes TEXT,
  UNIQUE(stage,year,date_key,shift), FOREIGN KEY(source_id) REFERENCES sources(source_id),

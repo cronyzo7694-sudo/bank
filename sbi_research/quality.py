@@ -12,6 +12,7 @@ def validate(db):
    if p['completeness_status']!='MISSING_SOURCE' and not p['source_id']: add('ERROR','paper',p['paper_id'],'MISSING_PROVENANCE','Paper needs source_id.')
    if p['total_questions'] is not None and count and count != p['total_questions']: add('WARNING','paper',p['paper_id'],'TOTAL_MISMATCH',f"Declared {p['total_questions']}, stored {count}.")
    if p['completeness_status']=='COMPLETE' and not count: add('ERROR','paper',p['paper_id'],'EMPTY_COMPLETE','COMPLETE paper has no questions.')
+   if p['paper_access_status']=='PAPER_FOUND' and not count: add('ERROR','paper',p['paper_id'],'UNEXTRACTED_FOUND_PAPER','PAPER_FOUND requires at least one directly extracted question.')
   for q in c.execute('SELECT q.*,p.completeness_status FROM questions q JOIN papers p ON p.paper_id=q.paper_id'):
    if not q['source_id']: add('ERROR','question',q['question_id'],'MISSING_PROVENANCE','Question has no resolvable source.')
    if q['text_certainty']=='TEXT_UNCERTAIN': add('WARNING','question',q['question_id'],'TEXT_UNCERTAIN','Do not quote as exact wording.')

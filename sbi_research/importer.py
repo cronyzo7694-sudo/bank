@@ -2,7 +2,7 @@
 from __future__ import annotations
 import json
 from pathlib import Path
-from .constants import STAGES, VERIFICATION, COMPLETENESS, SOURCE_TYPES, TEXT_CERTAINTY
+from .constants import STAGES, VERIFICATION, COMPLETENESS, SOURCE_TYPES, TEXT_CERTAINTY, PAPER_ACCESS
 from .db import connect, json_value
 class ImportErrorWithContext(ValueError): pass
 
@@ -25,12 +25,12 @@ def import_papers(db,path):
  with connect(db) as c:
   for r in records:
    _need(r,['paper_id','stage','year','verification_status','completeness_status','evidence_note'],'paper')
-   _choice(r['stage'],STAGES,'stage'); _choice(r['verification_status'],VERIFICATION,'verification_status'); _choice(r['completeness_status'],COMPLETENESS,'completeness_status')
+   _choice(r['stage'],STAGES,'stage'); _choice(r['verification_status'],VERIFICATION,'verification_status'); _choice(r['completeness_status'],COMPLETENESS,'completeness_status'); _choice(r.get('paper_access_status','SOURCE_LEAD'), PAPER_ACCESS, 'paper_access_status')
    if r['completeness_status']=='MISSING_SOURCE' and r.get('source_id'): raise ImportErrorWithContext(f"{r['paper_id']}: MISSING_SOURCE must not claim a source")
    if r['completeness_status']!='MISSING_SOURCE': _need(r,['source_id'],r['paper_id'])
    date=r.get('exam_date')
-   v={'paper_id':r['paper_id'],'exam_name':r.get('exam_name','SBI Clerk'),'stage':r['stage'],'year':r['year'],'exam_date':date,'date_key':date or 'UNKNOWN','shift':r.get('shift') or 'UNKNOWN','total_questions':r.get('total_questions'),'sections_json':json_value(r.get('sections'),[]),'section_question_count_json':json_value(r.get('section_question_count'),{}),'source_id':r.get('source_id'),'verification_status':r['verification_status'],'completeness_status':r['completeness_status'],'evidence_note':r['evidence_note'],'notes':r.get('notes')}
-   c.execute('INSERT OR REPLACE INTO papers VALUES (:paper_id,:exam_name,:stage,:year,:exam_date,:date_key,:shift,:total_questions,:sections_json,:section_question_count_json,:source_id,:verification_status,:completeness_status,:evidence_note,:notes)',v)
+   v={'paper_id':r['paper_id'],'exam_name':r.get('exam_name','SBI Clerk'),'stage':r['stage'],'year':r['year'],'exam_date':date,'date_key':date or 'UNKNOWN','shift':r.get('shift') or 'UNKNOWN','total_questions':r.get('total_questions'),'sections_json':json_value(r.get('sections'),[]),'section_question_count_json':json_value(r.get('section_question_count'),{}),'source_id':r.get('source_id'),'verification_status':r['verification_status'],'paper_access_status':r.get('paper_access_status','SOURCE_LEAD'),'completeness_status':r['completeness_status'],'evidence_note':r['evidence_note'],'notes':r.get('notes')}
+   c.execute('INSERT OR REPLACE INTO papers VALUES (:paper_id,:exam_name,:stage,:year,:exam_date,:date_key,:shift,:total_questions,:sections_json,:section_question_count_json,:source_id,:verification_status,:paper_access_status,:completeness_status,:evidence_note,:notes)',v)
  return len(records)
 def import_questions(db,path):
  records=load_records(path)
@@ -44,3 +44,20 @@ def import_questions(db,path):
    source_id=r.get('source_id') or paper['source_id']
    c.execute('INSERT OR REPLACE INTO questions VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',(r['question_id'],r['paper_id'],str(r['question_number']),r['section'],r['question_text'],json_value(r.get('options'),None),r.get('correct_answer','UNKNOWN'),source_id,r['source_locator'],r['verification_status'],r.get('text_certainty','CERTAIN'),r.get('notes')))
  return len(records)
+
+def import_paper_bundle(db, path):
+    """Import one paper JSON plus its directly preserved nested question records."""
+    records = load_records(path)
+    count = import_papers(db, path)
+    questions = [q for record in records for q in record.get('questions', [])]
+    if not questions:
+        return count, 0
+    # Reuse the same strict question importer through a temporary JSON document.
+    import tempfile
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.json', encoding='utf-8', delete=False) as handle:
+        json.dump({'records': questions}, handle, ensure_ascii=False)
+        temp_path = handle.name
+    try:
+        return count, import_questions(db, temp_path)
+    finally:
+        Path(temp_path).unlink(missing_ok=True)

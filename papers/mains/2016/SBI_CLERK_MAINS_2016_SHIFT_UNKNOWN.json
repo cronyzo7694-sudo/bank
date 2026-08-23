@@ -8,17 +8,222 @@
       "exam_date": null,
       "shift": "UNKNOWN",
       "total_questions": null,
-      "sections": [],
+      "sections": [
+        "REASONING ABILITY"
+      ],
       "section_question_count": {},
-      "source_id": "SRC-ADDA247-ARCHIVE",
-      "source_name": "Adda247 SBI Clerk previous-year paper archive",
-      "source_url": "https://www.adda247.com/jobs/sbi-clerk-previous-year-question-paper/",
-      "source_type": "REPUTABLE_EDUCATIONAL",
+      "source_id": "SRC-GDRIVE-2016-MAINS",
+      "source_name": "2016 SBI Clerk Mains document",
+      "source_url": "https://drive.usercontent.google.com/download?id=1dvft7GZcvnXmPTCIIC_h0c_v4yt8fES9&export=download",
+      "source_type": "QUESTION_ARCHIVE",
       "retrieval_date": "2026-08-23",
       "verification_status": "UNVERIFIED",
       "completeness_status": "PARTIAL",
-      "evidence_note": "Secondary archive lists a memory-based paper; direct document/question text has not yet been inspected.",
-      "questions": []
+      "evidence_note": "Direct source document was opened. Its heading is \u201cSBI Clerk Mains 2016\u201d; it contains questions and options. The first 10 directly accessible questions have been extracted. The entire 12-page document has not yet been transcribed, so this record is PARTIAL.",
+      "questions": [
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q1",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "1",
+          "section": "REASONING ABILITY",
+          "question_text": "Directions (1-5): Study the following information carefully and answer the questions which follow\u2014 Eight persons S, T, U, V, W, X, Y and Z live on 8 different floors in a building the ground floor is numbered 1 then numbered 2 till numbered 8. They like different colours i.e., red, pink, orange, blue, grey, green, yellow and purple There are four floors between W's floor and S's floor. W lives on an odd numbered floor. S like Yellow colur. There are two floors between T's and W's floor. The one who likes Grey colour lives on immediate above the floor on which S lives. U lives immediate above Y. The one who likes red colour lives on floor numbered one. There is no floor between T's floor and Z's floor. V does not live immediate above or below to W's floor. Only one person lives between the persons who like yellow and purple colours. The one who likes pink colour lives immediate above the floor on which the person who likes Grey colour. Z likes blue colour but does not live below to T. X likes Green colour.\n1. On which floor Z lives?",
+          "options": [
+            "(a) Third",
+            "(b) Fourth",
+            "(c) Fifth",
+            "(d) Sixth",
+            "(e) Seventh"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q2",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "2",
+          "section": "REASONING ABILITY",
+          "question_text": "Directions (1-5): Study the following information carefully and answer the questions which follow\u2014 Eight persons S, T, U, V, W, X, Y and Z live on 8 different floors in a building the ground floor is numbered 1 then numbered 2 till numbered 8. They like different colours i.e., red, pink, orange, blue, grey, green, yellow and purple There are four floors between W's floor and S's floor. W lives on an odd numbered floor. S like Yellow colur. There are two floors between T's and W's floor. The one who likes Grey colour lives on immediate above the floor on which S lives. U lives immediate above Y. The one who likes red colour lives on floor numbered one. There is no floor between T's floor and Z's floor. V does not live immediate above or below to W's floor. Only one person lives between the persons who like yellow and purple colours. The one who likes pink colour lives immediate above the floor on which the person who likes Grey colour. Z likes blue colour but does not live below to T. X likes Green colour.\n2. How many floors are below the floor on which Y lives?",
+          "options": [
+            "(a) Three",
+            "(b) Four",
+            "(c) Five",
+            "(d) Six",
+            "(e) Seven"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q3",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "3",
+          "section": "REASONING ABILITY",
+          "question_text": "Directions (1-5): Study the following information carefully and answer the questions which follow\u2014 Eight persons S, T, U, V, W, X, Y and Z live on 8 different floors in a building the ground floor is numbered 1 then numbered 2 till numbered 8. They like different colours i.e., red, pink, orange, blue, grey, green, yellow and purple There are four floors between W's floor and S's floor. W lives on an odd numbered floor. S like Yellow colur. There are two floors between T's and W's floor. The one who likes Grey colour lives on immediate above the floor on which S lives. U lives immediate above Y. The one who likes red colour lives on floor numbered one. There is no floor between T's floor and Z's floor. V does not live immediate above or below to W's floor. Only one person lives between the persons who like yellow and purple colours. The one who likes pink colour lives immediate above the floor on which the person who likes Grey colour. Z likes blue colour but does not live below to T. X likes Green colour.\n3. Who among the following lives on the second floor?",
+          "options": [
+            "(a) X",
+            "(b) V",
+            "(c) Y",
+            "(d) U",
+            "(e) S"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q4",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "4",
+          "section": "REASONING ABILITY",
+          "question_text": "Directions (1-5): Study the following information carefully and answer the questions which follow\u2014 Eight persons S, T, U, V, W, X, Y and Z live on 8 different floors in a building the ground floor is numbered 1 then numbered 2 till numbered 8. They like different colours i.e., red, pink, orange, blue, grey, green, yellow and purple There are four floors between W's floor and S's floor. W lives on an odd numbered floor. S like Yellow colur. There are two floors between T's and W's floor. The one who likes Grey colour lives on immediate above the floor on which S lives. U lives immediate above Y. The one who likes red colour lives on floor numbered one. There is no floor between T's floor and Z's floor. V does not live immediate above or below to W's floor. Only one person lives between the persons who like yellow and purple colours. The one who likes pink colour lives immediate above the floor on which the person who likes Grey colour. Z likes blue colour but does not live below to T. X likes Green colour.\n4. Which colour is liked by V?",
+          "options": [
+            "(a) Orange",
+            "(b) Pink",
+            "(d) Red",
+            "(e) Purple"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q5",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "5",
+          "section": "REASONING ABILITY",
+          "question_text": "Directions (1-5): Study the following information carefully and answer the questions which follow\u2014 Eight persons S, T, U, V, W, X, Y and Z live on 8 different floors in a building the ground floor is numbered 1 then numbered 2 till numbered 8. They like different colours i.e., red, pink, orange, blue, grey, green, yellow and purple There are four floors between W's floor and S's floor. W lives on an odd numbered floor. S like Yellow colur. There are two floors between T's and W's floor. The one who likes Grey colour lives on immediate above the floor on which S lives. U lives immediate above Y. The one who likes red colour lives on floor numbered one. There is no floor between T's floor and Z's floor. V does not live immediate above or below to W's floor. Only one person lives between the persons who like yellow and purple colours. The one who likes pink colour lives immediate above the floor on which the person who likes Grey colour. Z likes blue colour but does not live below to T. X likes Green colour.\n5. Which of the following is true with respect to T?",
+          "options": [
+            "(a) T likes Orange colour and lives on 4th floor?",
+            "(b) T like Pink colour and lives on 8th floor",
+            "(c) T like Purple colour and lives on 4th floor",
+            "(d) T like Grey colour and lives on 7th floor",
+            "(e) T like Red colour and lives on 8th floor"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q6",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "6",
+          "section": "REASONING ABILITY",
+          "question_text": "Direction (6-10): Study the following information to answer the given question. Eight friends E, F, G, H, L, M, N and O are seated in a straight line, facing north, but not necessarily in the same order. Both F and M are immediate neighbours of G. O sits at the extreme right end of the line. Only four people sit between O and G. Only two people sit between M and L. L is not an immediate neighbor of O. N sits second to left of E.\n6. What is the position of L with respect to G?",
+          "options": [
+            "(a) Third to the right",
+            "(b) To the immediate left",
+            "(c) Second to the right",
+            "(d) Fourth to the right",
+            "(e) Second to the left"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q7",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "7",
+          "section": "REASONING ABILITY",
+          "question_text": "Direction (6-10): Study the following information to answer the given question. Eight friends E, F, G, H, L, M, N and O are seated in a straight line, facing north, but not necessarily in the same order. Both F and M are immediate neighbours of G. O sits at the extreme right end of the line. Only four people sit between O and G. Only two people sit between M and L. L is not an immediate neighbor of O. N sits second to left of E.\n7. Based on the given arrangement, which of the following is true with respect to N?",
+          "options": [
+            "(a) Only three persons sit between N and O.",
+            "(b) None of the given options is true.",
+            "(c) Only one person sits to the right of N.",
+            "(d) E sits to immediate right of N.",
+            "(e) Both L and F are immediate neighbours of N"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q8",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "8",
+          "section": "REASONING ABILITY",
+          "question_text": "Direction (6-10): Study the following information to answer the given question. Eight friends E, F, G, H, L, M, N and O are seated in a straight line, facing north, but not necessarily in the same order. Both F and M are immediate neighbours of G. O sits at the extreme right end of the line. Only four people sit between O and G. Only two people sit between M and L. L is not an immediate neighbor of O. N sits second to left of E.\n8. Who amongst the following people represents the person seated at the extreme left end of the line?",
+          "options": [
+            "(a) E",
+            "(b) N",
+            "(c) L",
+            "(d) F",
+            "(e) H"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q9",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "9",
+          "section": "REASONING ABILITY",
+          "question_text": "Direction (6-10): Study the following information to answer the given question. Eight friends E, F, G, H, L, M, N and O are seated in a straight line, facing north, but not necessarily in the same order. Both F and M are immediate neighbours of G. O sits at the extreme right end of the line. Only four people sit between O and G. Only two people sit between M and L. L is not an immediate neighbor of O. N sits second to left of E.\n9. How many persons are seated between O and E?",
+          "options": [
+            "(a) Two",
+            "(b) Three",
+            "(c) None",
+            "(d) Four",
+            "(e) One"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        },
+        {
+          "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q10",
+          "paper_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN",
+          "question_number": "10",
+          "section": "REASONING ABILITY",
+          "question_text": "Direction (6-10): Study the following information to answer the given question. Eight friends E, F, G, H, L, M, N and O are seated in a straight line, facing north, but not necessarily in the same order. Both F and M are immediate neighbours of G. O sits at the extreme right end of the line. Only four people sit between O and G. Only two people sit between M and L. L is not an immediate neighbor of O. N sits second to left of E.\n10. Who amongst the following sit exactly between M and L?",
+          "options": [
+            "(a) E, N",
+            "(b) F, O",
+            "(c) F, G",
+            "(d) E, G",
+            "(e) H, N"
+          ],
+          "correct_answer": "UNKNOWN",
+          "source_id": "SRC-GDRIVE-2016-MAINS",
+          "source_locator": "PDF page 1",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+        }
+      ],
+      "paper_access_status": "PAPER_FOUND",
+      "notes": "No official provenance or answer key established. Correct answers intentionally remain UNKNOWN.",
+      "document_type": "SECONDARY_DOCUMENT"
     }
   ]
 }
