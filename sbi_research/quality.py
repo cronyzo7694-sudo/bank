@@ -15,6 +15,7 @@ def validate(db):
    if p['paper_access_status']=='PAPER_FOUND' and not count: add('ERROR','paper',p['paper_id'],'UNEXTRACTED_FOUND_PAPER','PAPER_FOUND requires at least one directly extracted question.')
   for q in c.execute('SELECT q.*,p.completeness_status FROM questions q JOIN papers p ON p.paper_id=q.paper_id'):
    if not q['source_id']: add('ERROR','question',q['question_id'],'MISSING_PROVENANCE','Question has no resolvable source.')
+   if q['correct_answer'] != 'UNKNOWN' and (not q['answer_source_id'] or not q['answer_source_url']): add('ERROR','question',q['question_id'],'UNSUPPORTED_ANSWER','Non-UNKNOWN answer requires answer-source provenance.')
    if q['text_certainty']=='TEXT_UNCERTAIN': add('WARNING','question',q['question_id'],'TEXT_UNCERTAIN','Do not quote as exact wording.')
   for x in issues: c.execute('INSERT INTO validation_issues(run_at,severity,entity_type,entity_id,code,message) VALUES (?,?,?,?,?,?)',(now,x['severity'],x['entity_type'],x['entity_id'],x['code'],x['message']))
  return issues

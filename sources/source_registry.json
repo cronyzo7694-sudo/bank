@@ -87,6 +87,38 @@
       "source_type": "QUESTION_ARCHIVE",
       "retrieval_date": "2026-08-23",
       "notes": "Direct archive and 27, 28, 29 May plus 5 June 2016 pages were inspected. The archive exposes questions and calls papers SBI Clerk; stage is not explicit on the inspected pages, so these are retained as leads rather than staged records."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+      "source_name": "2016 SBI Clerk Prelims Maths memory-based document",
+      "source_url": "https://drive.usercontent.google.com/download?id=1XHlJotU-q-IkEy4tF-f_GDjo-6RT2dq0&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct document inspected. Heading says \u201cMEMORY BASED SBI CLERK PRE MATHS\u201d; it includes questions numbered 36\u201370."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+      "source_name": "2016 SBI Clerk Prelims Reasoning solutions document",
+      "source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct answer-key document inspected. It shares the same memory-based heading/date as the cited Prelims Reasoning document and supplies answers for Q1\u201335."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+      "source_name": "2016 SBI Clerk Prelims Maths solutions document",
+      "source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct answer-key document inspected. It supplies answers for the cited memory-based Maths question document."
+    },
+    {
+      "source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+      "source_name": "2016 SBI Clerk Mains solutions document",
+      "source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Direct solutions document inspected. Heading says \u201cSBI Clerk Mains 2016 (Solutions)\u201d and supplies option answers for the corresponding direct Mains document."
     }
   ]
 }

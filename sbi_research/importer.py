@@ -42,7 +42,7 @@ def import_questions(db,path):
    if not paper: raise ImportErrorWithContext(f"{r['question_id']}: unknown paper")
    if paper['completeness_status']=='MISSING_SOURCE': raise ImportErrorWithContext(f"{r['question_id']}: cannot add questions to MISSING_SOURCE")
    source_id=r.get('source_id') or paper['source_id']
-   c.execute('INSERT OR REPLACE INTO questions VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',(r['question_id'],r['paper_id'],str(r['question_number']),r['section'],r['question_text'],json_value(r.get('options'),None),r.get('correct_answer','UNKNOWN'),source_id,r['source_locator'],r['verification_status'],r.get('text_certainty','CERTAIN'),r.get('notes')))
+   c.execute('INSERT OR REPLACE INTO questions VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)',(r['question_id'],r['paper_id'],str(r['question_number']),r['section'],r['question_text'],json_value(r.get('options'),None),r.get('correct_answer','UNKNOWN'),r.get('answer_source_id'),r.get('answer_source_url'),source_id,r['source_locator'],r['verification_status'],r.get('text_certainty','CERTAIN'),r.get('notes')))
  return len(records)
 
 def import_paper_bundle(db, path):

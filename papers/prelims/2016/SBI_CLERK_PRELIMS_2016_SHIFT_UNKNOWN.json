@@ -9,7 +9,8 @@
       "shift": "UNKNOWN",
       "total_questions": null,
       "sections": [
-        "REASONING ABILITY"
+        "REASONING ABILITY",
+        "MATHS"
       ],
       "section_question_count": {},
       "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
@@ -19,7 +20,7 @@
       "retrieval_date": "2026-08-23",
       "verification_status": "UNVERIFIED",
       "completeness_status": "PARTIAL",
-      "evidence_note": "Direct source document was opened and contains a memory-based Prelims Reasoning practice set stated to be based on 28 May 2016. It is not a complete paper: only this section document is accessible in this record. Shift is not stated.",
+      "evidence_note": "Direct sources were re-inspected. The Reasoning document has questions 1\u201335 and the Maths document has questions 36\u201370; matching solution documents were directly inspected. This record stores only the 10 fully preserved question records selected in this pass. It remains a PARTIAL, UNVERIFIED, MEMORY_BASED compilation; no English question document or complete shift paper was recovered.",
       "questions": [
         {
           "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q1",
@@ -34,12 +35,14 @@
             "(d) if neither conclusion I is true.",
             "(e) if both conclusions I and II are true."
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "A",
           "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from a memory-based source document."
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download"
         },
         {
           "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q2",
@@ -54,12 +57,14 @@
             "(d) if neither conclusion I is true.",
             "(e) if both conclusions I and II are true."
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "B",
           "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from a memory-based source document."
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download"
         },
         {
           "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q3",
@@ -74,12 +79,14 @@
             "(d) if neither conclusion I is true.",
             "(e) if both conclusions I and II are true."
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "A",
           "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from a memory-based source document."
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download"
         },
         {
           "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q4",
@@ -94,12 +101,14 @@
             "(d) if neither conclusion I is true.",
             "(e) if both conclusions I and II are true."
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "D",
           "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from a memory-based source document."
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download"
         },
         {
           "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q5",
@@ -114,12 +123,124 @@
             "(d) if neither conclusion I is true.",
             "(e) if both conclusions I and II are true."
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "E",
           "source_id": "SRC-GDRIVE-2016-PRE-REASONING",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "TEXT_UNCERTAIN",
-          "notes": "Directly transcribed from a memory-based source document."
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-REASONING-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download"
+        },
+        {
+          "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q41",
+          "paper_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN",
+          "question_number": "41",
+          "section": "MATHS",
+          "question_text": "The number of various crimes, as supplied by national crime record, reported in different states in the year 2012-13. Bihar: Stalking 352, Assault 496, Theft 265, Murder 132, Criminal Trespass 332. MP: 376, 225, 216, 125, 115. UP: 85, 125, 53, 56, 57. HP: 10545, 3652, 12224, 354, 10128. AP: 445, 225, 252, 173, 154. Delhi: 473, 576, 675, 764, 852. Haryana: 245, 256, 257, 261, 263. Rajasthan: 273, 276, 278, 252, 353.\n41. The total number of various crimes in HP is",
+          "options": [
+            "(a) 37803",
+            "(b) 38903",
+            "(c) 37903",
+            "(d) 36903",
+            "(e) 37003"
+          ],
+          "correct_answer": "D",
+          "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+          "source_locator": "PDF page 1",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document."
+        },
+        {
+          "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q42",
+          "paper_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN",
+          "question_number": "42",
+          "section": "MATHS",
+          "question_text": "The number of various crimes, as supplied by national crime record, reported in different states in the year 2012-13. Bihar: Stalking 352, Assault 496, Theft 265, Murder 132, Criminal Trespass 332. MP: 376, 225, 216, 125, 115. UP: 85, 125, 53, 56, 57. HP: 10545, 3652, 12224, 354, 10128. AP: 445, 225, 252, 173, 154. Delhi: 473, 576, 675, 764, 852. Haryana: 245, 256, 257, 261, 263. Rajasthan: 273, 276, 278, 252, 353.\n42. Find the ratio of Stalking and Assault in UP to Theft and Criminal Trespass in Haryana.",
+          "options": [
+            "(a) 28 : 51",
+            "(b) 21 : 52",
+            "(c) 52 : 21",
+            "(d) 14 : 55",
+            "(e) 55 : 14"
+          ],
+          "correct_answer": "B",
+          "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+          "source_locator": "PDF page 1",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document."
+        },
+        {
+          "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q43",
+          "paper_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN",
+          "question_number": "43",
+          "section": "MATHS",
+          "question_text": "The number of various crimes, as supplied by national crime record, reported in different states in the year 2012-13. Bihar: Stalking 352, Assault 496, Theft 265, Murder 132, Criminal Trespass 332. MP: 376, 225, 216, 125, 115. UP: 85, 125, 53, 56, 57. HP: 10545, 3652, 12224, 354, 10128. AP: 445, 225, 252, 173, 154. Delhi: 473, 576, 675, 764, 852. Haryana: 245, 256, 257, 261, 263. Rajasthan: 273, 276, 278, 252, 353.\n43. Find the approximate average of Murder and Theft in all the eight states together.",
+          "options": [
+            "(a) 1141",
+            "(b) 1132",
+            "(c) 1311",
+            "(d) 941",
+            "(e) 1021"
+          ],
+          "correct_answer": "E",
+          "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+          "source_locator": "PDF page 1",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document."
+        },
+        {
+          "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q44",
+          "paper_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN",
+          "question_number": "44",
+          "section": "MATHS",
+          "question_text": "The number of various crimes, as supplied by national crime record, reported in different states in the year 2012-13. Bihar: Stalking 352, Assault 496, Theft 265, Murder 132, Criminal Trespass 332. MP: 376, 225, 216, 125, 115. UP: 85, 125, 53, 56, 57. HP: 10545, 3652, 12224, 354, 10128. AP: 445, 225, 252, 173, 154. Delhi: 473, 576, 675, 764, 852. Haryana: 245, 256, 257, 261, 263. Rajasthan: 273, 276, 278, 252, 353.\n44. The total number of Assaults and Murders together in Bihar is what per cent of the total number of crimes in that state?",
+          "options": [
+            "(a) 29.82%",
+            "(b) 39.82%",
+            "(c) 25%",
+            "(d) 21.82%",
+            "(e) 25.5%"
+          ],
+          "correct_answer": "B",
+          "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+          "source_locator": "PDF page 1",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document."
+        },
+        {
+          "question_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN_Q45",
+          "paper_id": "SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN",
+          "question_number": "45",
+          "section": "MATHS",
+          "question_text": "The number of various crimes, as supplied by national crime record, reported in different states in the year 2012-13. Bihar: Stalking 352, Assault 496, Theft 265, Murder 132, Criminal Trespass 332. MP: 376, 225, 216, 125, 115. UP: 85, 125, 53, 56, 57. HP: 10545, 3652, 12224, 354, 10128. AP: 445, 225, 252, 173, 154. Delhi: 473, 576, 675, 764, 852. Haryana: 245, 256, 257, 261, 263. Rajasthan: 273, 276, 278, 252, 353.\n45. Find the difference between the number of various crimes committed in Bihar and that in Rajasthan.",
+          "options": [
+            "(a) 105",
+            "(b) 98",
+            "(c) 145",
+            "(d) 139",
+            "(e) 104"
+          ],
+          "correct_answer": "C",
+          "source_id": "SRC-GDRIVE-2016-PRE-MATHS",
+          "source_locator": "PDF page 1",
+          "answer_source_id": "SRC-GDRIVE-2016-PRE-MATHS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download",
+          "verification_status": "UNVERIFIED",
+          "text_certainty": "CERTAIN",
+          "notes": "Question transcribed from direct memory-based document. Answer option is from separately inspected matching solutions document."
         }
       ],
       "paper_access_status": "PAPER_FOUND",

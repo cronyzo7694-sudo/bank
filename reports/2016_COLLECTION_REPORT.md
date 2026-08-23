@@ -1,55 +1,76 @@
-# SBI CLERK 2016 COLLECTION REPORT
+# SBI CLERK 2016 — final recovery collection report
 
-**Scope:** 2016 only. This report is collection/provenance only; it contains no analysis or inference about question patterns.
+**Scope:** only 2016. This is a source/recovery report, not analysis.
 
-## PRELIMS
+## Recovery-pass outcome
 
-| Measure | Count |
+The direct documents and solution documents available from the existing SSC Study/Google Drive lead were re-opened. No source established an official SBI release, an exact shift number, or a complete corroborated paper. Those values remain `UNVERIFIED` / `UNKNOWN` rather than inferred.
+
+### PRELIMS
+
+| Item | Result |
 |---|---:|
-| Actual documents found and opened | 1 |
-| Actual paper records extracted | 1 partial memory-based section record |
-| Verified | 0 |
-| Unverified | 1 |
-| Partial | 1 |
-| Source leads | 5 (including stage-ambiguous Cracku pages) |
-| Missing | 0 |
+| Actual question documents directly inspected | 2 (Reasoning; Maths) |
+| Direct solution documents inspected | 2 |
+| Directly extracted question records stored | 10 (Q1–Q5, Q41–Q45) |
+| Source-backed answers stored | 10 |
+| Question records with uncertain text | 1 (Q5) |
+| Structured questions still not extracted | 60 of the source-visible Q1–Q70 sequence; an English source document was not recovered |
+| Complete paper recovered | No |
+| `VERIFIED` records | 0 |
+| `UNVERIFIED` records | 1 paper record |
+| `PARTIAL` records | 1 paper record |
 
-**Stored document:** `papers/prelims/2016/SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN.json`  
-**Access status:** `PAPER_FOUND`  
-**Completeness:** `PARTIAL`  
-**Verification:** `UNVERIFIED` / `MEMORY_BASED`
+**Paper:** `papers/prelims/2016/SBI_CLERK_PRELIMS_2016_SHIFT_UNKNOWN.json`  
+**Access:** `PAPER_FOUND` • **Document type:** `MEMORY_BASED` • **Completeness:** `PARTIAL` • **Verification:** `UNVERIFIED`
 
-The direct document’s heading identifies it as a “MEMORY BASED SBI CLERK PRELIMS PRACTICE SET based on 28thMay 2016 Exam.” It contains a Reasoning Ability compilation. Five directly transcribed questions are stored; Q5 is flagged `TEXT_UNCERTAIN` because the accessible source text does not show its statement. It is not represented as a complete or official paper.
+The inspected Reasoning document says it is a memory-based SBI Clerk Prelims practice set based on the 28 May 2016 exam. The inspected Maths document identifies itself as a memory-based SBI Clerk Pre Maths document. Their question numbering is compatible (Reasoning Q1–35; Maths Q36–70), but the documents do not establish a complete, original, same-shift paper. They are therefore not merged into a claimed complete paper.
 
-## MAINS
+**Q5:** the matching answer-key document supports answer option `E`, but it does not restore the absent Q5 statement. Q5 remains `TEXT_UNCERTAIN`; no wording was invented.
 
-| Measure | Count |
+### MAINS
+
+| Item | Result |
 |---|---:|
-| Actual documents found and opened | 1 |
-| Actual paper records extracted | 1 partial paper record |
-| Verified | 0 |
-| Unverified | 1 |
-| Partial | 1 |
-| Source leads | 1 archive listing |
-| Missing | 0 |
+| Actual question document directly inspected | 1 |
+| Direct solution document inspected | 1 |
+| Directly extracted question records stored | 10 (Reasoning Q1–Q10) |
+| Source-backed answers stored | 10 |
+| Structured questions still not extracted | Q11 onward; a total remaining count is not asserted because the complete document was not transcribed in this pass |
+| Complete paper recovered | No |
+| `VERIFIED` records | 0 |
+| `UNVERIFIED` records | 1 paper record |
+| `PARTIAL` records | 1 paper record |
 
-**Stored document:** `papers/mains/2016/SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN.json`  
-**Access status:** `PAPER_FOUND`  
-**Completeness:** `PARTIAL`  
-**Verification:** `UNVERIFIED`
+**Paper:** `papers/mains/2016/SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN.json`  
+**Access:** `PAPER_FOUND` • **Completeness:** `PARTIAL` • **Verification:** `UNVERIFIED`
 
-The direct 12-page document’s heading says “SBI Clerk Mains 2016.” Ten Question 1–10 Reasoning Ability records with source options are stored. The inspected question document did not supply an answer key, so every `correct_answer` is `UNKNOWN`. The remaining pages have not yet been transcribed; it is therefore not complete.
+The question document is headed “SBI Clerk Mains 2016” and the matching direct answer document is headed “SBI Clerk Mains 2016 (Solutions).” These are usable secondary documents, but neither constitutes official provenance or a second independent reproduction. The paper is not upgraded to verified or complete.
 
-## Exact accessed sources
+## Exact sources directly inspected
 
-1. Prelims Reasoning direct document: <https://drive.usercontent.google.com/download?id=1RydeIciAg9qbrg0ybHl5XlEzZA8XW9Ad&export=download>
-2. Mains direct document: <https://drive.usercontent.google.com/download?id=1dvft7GZcvnXmPTCIIC_h0c_v4yt8fES9&export=download>
-3. Source listing that exposes both documents: <https://sscstudy.com/sbi-clerk-previous-year-question-paper-pdf/>
-4. Cracku 27 May actual question page (stage unresolved): <https://cracku.in/sbi-clerk-2016-4-question-paper-solved>
-5. Cracku 28 May actual question page (stage unresolved): <https://cracku.in/sbi-clerk-2016-3-question-paper-solved>
-6. Cracku 29 May actual question page (stage unresolved): <https://cracku.in/sbi-clerk-2016-question-paper-solved>
-7. Cracku archive / 5 June source lead: <https://cracku.in/sbi-clerk-previous-papers/>
+### Prelims
 
-## Explicit stop point
+- Reasoning questions: <https://drive.usercontent.google.com/download?id=1RydeIciAg9qbrg0ybHl5XlEzZA8XW9Ad&export=download>
+- Reasoning solutions: <https://drive.usercontent.google.com/download?id=1rE6FPf-ZeB1qd8PEHZuMQmE2jgs4qZ1A&export=download>
+- Maths questions: <https://drive.usercontent.google.com/download?id=1XHlJotU-q-IkEy4tF-f_GDjo-6RT2dq0&export=download>
+- Maths solutions: <https://drive.usercontent.google.com/download?id=138yzm9A1lHvns5ghtwkSJe1SRtcnK0jM&export=download>
 
-No 2017-or-later collection was performed in this task. The source leads are preserved separately in `source_leads/2016/` and have not been promoted to staged paper records without direct stage evidence.
+### Mains
+
+- Questions: <https://drive.usercontent.google.com/download?id=1dvft7GZcvnXmPTCIIC_h0c_v4yt8fES9&export=download>
+- Solutions: <https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download>
+
+### Exhausted / unresolved leads
+
+- SSC Study listing (lead that exposed the inspected documents): <https://sscstudy.com/sbi-clerk-previous-year-question-paper-pdf/>
+- Cracku 27 May: <https://cracku.in/sbi-clerk-2016-4-question-paper-solved>
+- Cracku 28 May: <https://cracku.in/sbi-clerk-2016-3-question-paper-solved>
+- Cracku 29 May: <https://cracku.in/sbi-clerk-2016-question-paper-solved>
+- Cracku archive / 5 June lead: <https://cracku.in/sbi-clerk-previous-papers/>
+
+The first three Cracku pages were directly opened and display questions, but their inspected pages do not explicitly state Prelims/Mains. They remain `UNKNOWN_STAGE` source leads and are not merged into either 2016 paper. The 5 June page remains un-opened/source lead. The old Prelims Quant lead is resolved by the direct Maths document above.
+
+## Stop point
+
+2016 remains `PARTIAL + UNVERIFIED`. No questions, answers, stage, date, or shift have been invented. No 2017-or-later source collection was performed in this recovery pass.

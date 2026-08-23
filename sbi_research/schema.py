@@ -24,9 +24,9 @@ CREATE TABLE IF NOT EXISTS papers (
 CREATE TABLE IF NOT EXISTS questions (
  question_id TEXT PRIMARY KEY, paper_id TEXT NOT NULL, question_number TEXT NOT NULL,
  section TEXT NOT NULL, question_text TEXT NOT NULL, options_json TEXT, correct_answer TEXT NOT NULL DEFAULT 'UNKNOWN',
- source_id TEXT, source_locator TEXT NOT NULL, verification_status TEXT NOT NULL CHECK(verification_status IN ('VERIFIED','PARTIALLY_VERIFIED','UNVERIFIED','CONFLICTING_SOURCE')),
+ answer_source_id TEXT, answer_source_url TEXT, source_id TEXT, source_locator TEXT NOT NULL, verification_status TEXT NOT NULL CHECK(verification_status IN ('VERIFIED','PARTIALLY_VERIFIED','UNVERIFIED','CONFLICTING_SOURCE')),
  text_certainty TEXT NOT NULL DEFAULT 'CERTAIN' CHECK(text_certainty IN ('CERTAIN','TEXT_UNCERTAIN')),
- notes TEXT, FOREIGN KEY(paper_id) REFERENCES papers(paper_id), FOREIGN KEY(source_id) REFERENCES sources(source_id),
+ notes TEXT, FOREIGN KEY(paper_id) REFERENCES papers(paper_id), FOREIGN KEY(source_id) REFERENCES sources(source_id), FOREIGN KEY(answer_source_id) REFERENCES sources(source_id),
  UNIQUE(paper_id,question_number)
 );
 CREATE TABLE IF NOT EXISTS validation_issues (

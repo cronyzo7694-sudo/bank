@@ -19,7 +19,7 @@
       "retrieval_date": "2026-08-23",
       "verification_status": "UNVERIFIED",
       "completeness_status": "PARTIAL",
-      "evidence_note": "Direct source document was opened. Its heading is \u201cSBI Clerk Mains 2016\u201d; it contains questions and options. The first 10 directly accessible questions have been extracted. The entire 12-page document has not yet been transcribed, so this record is PARTIAL.",
+      "evidence_note": "Direct Mains question and matching solutions documents were re-inspected. Questions 1\u201310 have source-backed option answers. The document contains further questions, but only Q1\u201310 are structurally transcribed in this record; it remains PARTIAL and UNVERIFIED.",
       "questions": [
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q1",
@@ -34,12 +34,14 @@
             "(d) Sixth",
             "(e) Seventh"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "C",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q2",
@@ -54,12 +56,14 @@
             "(d) Six",
             "(e) Seven"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "D",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q3",
@@ -74,12 +78,14 @@
             "(d) U",
             "(e) S"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "A",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q4",
@@ -93,12 +99,14 @@
             "(d) Red",
             "(e) Purple"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "A",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q5",
@@ -113,12 +121,14 @@
             "(d) T like Grey colour and lives on 7th floor",
             "(e) T like Red colour and lives on 8th floor"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "C",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q6",
@@ -133,12 +143,14 @@
             "(d) Fourth to the right",
             "(e) Second to the left"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "E",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q7",
@@ -153,12 +165,14 @@
             "(d) E sits to immediate right of N.",
             "(e) Both L and F are immediate neighbours of N"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "B",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q8",
@@ -173,12 +187,14 @@
             "(d) F",
             "(e) H"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "C",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q9",
@@ -193,12 +209,14 @@
             "(d) Four",
             "(e) One"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "C",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         },
         {
           "question_id": "SBI_CLERK_MAINS_2016_SHIFT_UNKNOWN_Q10",
@@ -213,12 +231,14 @@
             "(d) E, G",
             "(e) H, N"
           ],
-          "correct_answer": "UNKNOWN",
+          "correct_answer": "C",
           "source_id": "SRC-GDRIVE-2016-MAINS",
           "source_locator": "PDF page 1",
           "verification_status": "UNVERIFIED",
           "text_certainty": "CERTAIN",
-          "notes": "Directly transcribed from cited document; answer not supplied in the inspected question document."
+          "notes": "Question transcribed from direct document. Answer option is from separately inspected matching Mains solutions document.",
+          "answer_source_id": "SRC-GDRIVE-2016-MAINS-SOL",
+          "answer_source_url": "https://drive.usercontent.google.com/download?id=197_BcpL8JYM54YmqV5WsdGPeYVKwopka&export=download"
         }
       ],
       "paper_access_status": "PAPER_FOUND",
