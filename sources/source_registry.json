@@ -119,6 +119,38 @@
       "source_type": "QUESTION_ARCHIVE",
       "retrieval_date": "2026-08-23",
       "notes": "Direct solutions document inspected. Heading says \u201cSBI Clerk Mains 2016 (Solutions)\u201d and supplies option answers for the corresponding direct Mains document."
+    },
+    {
+      "source_id": "SRC-CRACKU-2017-SEARCH",
+      "source_name": "Cracku SBI Clerk previous-papers archive",
+      "source_url": "https://cracku.in/sbi-clerk-previous-papers/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Directly inspected. Page says SBI Clerk exam was not conducted in 2017 and no 2017 question paper is available."
+    },
+    {
+      "source_id": "SRC-EXAMSTOCKS-2017-SEARCH",
+      "source_name": "ExamStocks SBI Clerk previous-paper page",
+      "source_url": "https://www.examstocks.com/sbi-clerk-previous-year-solved-question-papers-pdf/",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Directly inspected. Page says SBI Clerk question paper 2017 is unavailable because no exam was conducted that year."
+    },
+    {
+      "source_id": "SRC-PREPP-2017-CONFLICT",
+      "source_name": "Prepp SBI Clerk practice-paper page",
+      "source_url": "https://prepp.in/sbi-clerk-exam/practice-papers",
+      "source_type": "QUESTION_ARCHIVE",
+      "retrieval_date": "2026-08-23",
+      "notes": "Directly inspected. Its 2017 SBI Clerk tables point to documents whose filenames/content identify IBPS Clerk or IBPS PO, so they are excluded as non-SBI material."
+    },
+    {
+      "source_id": "SRC-SBI-2018-DATES",
+      "source_name": "State Bank of India Junior Associate examination-dates notice",
+      "source_url": "https://sbi.bank.in/webfiles/uploads/files/1516358303086_FINAL_EXAM_DATES.pdf",
+      "source_type": "OFFICIAL",
+      "retrieval_date": "2026-08-23",
+      "notes": "Directly inspected official notice dated 5 April 2018 for ad CRPD/CR/2017-18/10; sets exam dates in 2018. Timeline context only."
     }
   ]
 }
